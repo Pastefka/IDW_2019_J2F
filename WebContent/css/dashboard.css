@@ -1,0 +1,10 @@
+.card {
+	margin-top: 10px;
+}
+.BoxInput{
+	float: top;
+}
+
+[id^="sel"] {
+	padding: 7px;
+}

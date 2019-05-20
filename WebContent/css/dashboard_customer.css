@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+.boxB{
+	width: 80%;
+	float: top;
+	padding: 20px;
+	background: #eee;
+	box-sizing: border-box;
+	border-style: solid;
+	border-color: #555555;
+	margin-bottom: 5px;
+}
+
+.boxA{
+	width: 30%;
+	float: top;
+	padding: 20px;
+	background: #eee;
+	box-sizing: border-box;
+	border: solid;
+	border-color: #555555;
+	margin-bottom: 5px;
+}
+
+.boxc{
+	margin-right: auto;
+	width: 85%;
+	float: top;
+	padding: 20px;
+	background: #eee;
+	box-sizing: border-box;
+	border: solid;
+	border-color: #555555;
+	margin-bottom: 5px;
+}
+
+.card {
+	margin-top: 10px;
+}
+
+[id^="sel"] {
+	padding: 7px;
+}
